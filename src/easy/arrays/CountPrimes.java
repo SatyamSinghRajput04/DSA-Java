@@ -1,3 +1,5 @@
+// Sieve of Eratosthenes
+
 package easy.arrays;
 
 public class CountPrimes {
