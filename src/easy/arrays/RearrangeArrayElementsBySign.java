@@ -4,7 +4,6 @@ import java.util.*;
 
 public class RearrangeArrayElementsBySign {
 
-    // Function to rearrange array by sign
     public static int[] rearrangeArray(int[] nums) {
         int pos = 0;
         int neg = 1;
@@ -23,7 +22,6 @@ public class RearrangeArrayElementsBySign {
         return result;
     }
 
-    // Main function
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

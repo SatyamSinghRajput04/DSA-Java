@@ -1,4 +1,4 @@
-package easy.arrays;
+package easy.linkedlist;
 
 class ListNode {
     int val;
